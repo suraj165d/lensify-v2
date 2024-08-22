@@ -1,0 +1,11 @@
+streamlit
+pillow
+tensorflow
+tensorflow-hub
+keras
+numpy
+pandas
+geopy
+requests
+google-generativeai
+protobuf
